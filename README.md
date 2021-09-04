@@ -1,4 +1,4 @@
-# House Construction
-- GI rate 
-- Engineer Map
-- Cement Bag
+# House Construction ProjectE
+- GI rate : 55
+- Engineer Map: Yes
+- Cement Bag Rate: 384
